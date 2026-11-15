@@ -23,8 +23,8 @@
 activation = "1.1.1"
 aliyun-sdk-oss = "3.10.2"
 analyticsaccelerator = "1.3.0"
-antlr = "4.9.3"
-antlr413 = "4.13.1" # For Spark 4.0 support
+antlr = "4.13.2"
+antlr413 = "4.13.2" # For Spark 4.0 support
 aircompressor = "0.27"
 apiguardian = "1.1.2"
 arrow = "15.0.2"
