@@ -69,7 +69,7 @@ project(':iceberg-kafka-connect:iceberg-kafka-connect-runtime') {
       exclude group: 'javax.activation', module: 'activation'
       // force upgrades for dependencies with known vulnerabilities...
       resolutionStrategy {
-        force 'org.codehaus.jettison:jettison:1.5.4'
+        force 'org.codehaus.jettison:jettison:1.5.7'
         force 'org.xerial.snappy:snappy-java:1.1.10.8'
         force 'org.apache.commons:commons-compress:1.28.0'
         force 'org.apache.hadoop.thirdparty:hadoop-shaded-guava:1.4.0'
